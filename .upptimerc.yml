@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Homepage
-    url: https://apps.carterbourette.ca
+    url: https://test.carterbourette.ca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
