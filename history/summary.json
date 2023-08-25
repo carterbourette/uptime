@@ -4,7 +4,7 @@
     "url": "https://apps.carterbourette.ca",
     "icon": "https://icons.duckduckgo.com/ip3/apps.carterbourette.ca.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 650,
     "timeMonth": 629,
     "timeYear": 629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   }
 ]
