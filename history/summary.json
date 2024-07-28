@@ -4,7 +4,7 @@
     "url": "https://test.carterbourette.ca",
     "icon": "https://icons.duckduckgo.com/ip3/test.carterbourette.ca.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 425,
     "timeYear": 617,
     "dailyMinutesDown": {
+      "2024-07-28": 0,
       "2024-02-13": 21,
       "2023-09-12": 40,
       "2023-09-11": 659,
