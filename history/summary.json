@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.carterbourette.ca.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "89.32%",
-    "uptimeWeek": "98.47%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "98.54%",
-    "time": 1302,
-    "timeDay": 19422,
-    "timeWeek": 5228,
-    "timeMonth": 1691,
-    "timeYear": 912,
+    "uptime": "99.15%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "84.79%",
+    "uptimeMonth": "96.50%",
+    "uptimeYear": "98.28%",
+    "time": 1341,
+    "timeDay": 19511,
+    "timeWeek": 7645,
+    "timeMonth": 2286,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2025-11-18": 121,
       "2025-11-25": 28,
@@ -29,7 +29,8 @@
       "2026-02-20": 790,
       "2026-02-19": 453,
       "2026-02-24": 61,
-      "2026-08-07": 154
+      "2026-08-08": 98,
+      "2026-08-07": 1435
     }
   }
 ]
